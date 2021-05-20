@@ -8,8 +8,7 @@
     "des": "vue3 ts模版",
     "version": "1.0",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/boilerplate-vue3-vite2-h5.git",
-    "class": "template",
-    "branch": "master"
+    "class": "template"
   }, {
     "des": "nuxtDemo",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/nuxt_demo.git",

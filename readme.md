@@ -4,7 +4,6 @@
 ## config.json list: item[] 里 item 的属性
 - des   !: string   描述（模版名字之类的，给人看的）
 - version ?: string 跟des混合显示用的
-- name  !: string   cmd 用的，不要重复，如果重复鬼知道选的是哪一个
 - git   !: string   对应的git仓库地址
 - branch ?: string
 - class ?: string   分类, classDict里的 ,不填相当于 default

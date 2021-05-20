@@ -2,34 +2,28 @@
   "list": [{
     "des": "vue2 ts模版",
     "version": "1.0",
-    "name": "boilerplate-vue2-ts",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/boilerplate-vue2-ts.git",
     "class": "template"
   }, {
     "des": "vue3 ts模版",
     "version": "1.0",
-    "name": "boilerplate-vue3-vite2-h5",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/boilerplate-vue3-vite2-h5.git",
     "class": "template",
     "branch": "master"
   }, {
     "des": "nuxtDemo",
-    "name": "nuxt_demo",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/nuxt_demo.git",
     "class": "shareDemo"
   }, {
     "des": "明暗风格转换搭建Demo",
-    "name": "colorstyletransform",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/colorstyletransform.git",
     "class": "shareDemo"
   }, {
     "des": "logDemo",
-    "name": "logDemo",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/log-demo.git",
     "class": "shareDemo"
   }, {
     "des": "骨架屏demo",
-    "name": "skeletondemo",
     "git": "https://gitlab.ayla.com.cn/ccpg/application/fe-play/skeletondemo.git",
     "class": "shareDemo"
   }],
